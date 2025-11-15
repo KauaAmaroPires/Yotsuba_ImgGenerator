@@ -1,0 +1,20 @@
+{
+  "name": "yotsuba_imggenerator",
+  "version": "1.0.0",
+  "description": "API geradora de imagems Yotsuba.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kauã amaro pires",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.10.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "gifencoder": "^2.0.1",
+    "node-canvas-with-twemoji-and-discord-emoji": "^1.2.1"
+  }
+}
